@@ -1,2 +1,3 @@
 # Basic-TypeScript
-Here we can all basic type script code
+Here we can all basic to advance Type script that will you to lean type script
+# 

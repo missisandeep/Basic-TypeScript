@@ -16,11 +16,11 @@ enum Role {
     USER,
     EMPLOYEE,
 }
-console.log('sandeep - ', Role)
-// output will come ==== -  Object0: "ADMIN"1: "SUPER_ADMIN"2: "USER"3: "EMPLOYEE"ADMIN: 0EMPLOYEE: 3SUPER_ADMIN: 1USER: 2
+console.log('output - ', Role)
+// output -  Object0: "ADMIN"1: "SUPER_ADMIN"2: "USER"3: "EMPLOYEE"ADMIN: 0EMPLOYEE: 3SUPER_ADMIN: 1USER: 2
 
-console.log('sandeep - ', Role.ADMIN)
-// sandeep -  0
+console.log('output - ', Role.ADMIN)
+// output -  0
 
 
 
